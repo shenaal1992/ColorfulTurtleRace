@@ -23,7 +23,7 @@ Welcome to Colorful Turtle Race, a Python project where turtles race to the fini
 3. Run the Python script to start the colorful turtle race!
 
 ## Author:
-[Your Name]
+Shenal Elekuttige
 
 Feel free to contribute, customize, or enhance the project!
 
